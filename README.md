@@ -15,6 +15,6 @@
 
 # OptiVerse
 
-LuminaFrame is video processing application that seamlessly integrates audio transcription, object detection, and video annotation. Leveraging advanced machine learning models, LuminaFrame allows you to effortlessly add subtitles and visual object labels to your video files.
+**LuminaFrame** is a modern video processing solution that combines **YOLOv5** and **Whisper AI** for automatic object detection and speech-to-text conversion. The application creates professional-grade video with overlaid subtitles and visual markers of detected objects in real-time. Perfect for security surveillance systems and private monitoring, it excels at detecting suspicious individuals and ensuring safety through intelligent camera monitoring.
 
 # 🚀 Features
