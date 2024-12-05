@@ -27,3 +27,14 @@ Ideal for security surveillance and private monitoring, OptiVerse excels at iden
 - High-Quality Audio Extraction: Use FFmpeg to extract audio seamlessly for precise transcription.
 - Face Detection and Pose Estimation: Integrate MediaPipe for advanced face detection and human pose estimation.
 - Maintains Original Quality: Ensures that the original video quality is preserved while adding enhancements.
+
+
+## Frequently Asked Questions
+
+Q: Can OptiVerse process live video streams?
+
+A: Currently, OptiVerse processes pre-recorded videos, but real-time streaming support is on my3 roadmap.
+
+Q: Does OptiVerse support GPU acceleration?
+
+A: Yes, OptiVerse is optimized for both CPU and GPU processing. It automatically detects available hardware.
