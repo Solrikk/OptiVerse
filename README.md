@@ -15,6 +15,7 @@
 
 # OptiVerse
 
-**OptiVerse** is a cutting-edge video processing platform that seamlessly integrates **YOLOv5** for object detection and **Whisper AI** for speech-to-text conversion. Built on PyTorch and optimized for both CPU and GPU processing. My solution, LuminaFrame, delivers professional-grade videos with real-time overlays of subtitles and visual indicators for detected objects, utilizing OpenCV for frame processing and FFMPEG for high-quality audio extraction. Ideal for security surveillance and private monitoring, OptiVerse excels at identifying suspicious activities and enhancing safety through intelligent camera analytics, maintaining original video quality while providing frame-accurate object tracking and synchronized subtitle overlays.
+**OptiVerse** is a video processing platform that seamlessly integrates advanced object detection and speech recognition technologies to deliver professional-grade videos with real-time overlays. Leveraging **YOLOv5** for object detection and **Whisper AI** for speech-to-text conversion, OptiVerse is built on **PyTorc**h and optimized for both CPU and GPU processing to ensure high performance.
 
+Ideal for security surveillance and private monitoring, OptiVerse excels at identifying suspicious activities and enhancing safety through intelligent camera analytics. It maintains the original video quality while providing frame-accurate object tracking and synchronized subtitle overlays.
 # 🚀 Features
