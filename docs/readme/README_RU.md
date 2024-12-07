@@ -1,3 +1,18 @@
+![Logo](https://github.com/Solrikk/OptiVerse/blob/main/assets/OpenCV%20-%20result/bee.jpg)
+
+<div align="center">
+  <h3>
+    <a href="https://github.com/Solrikk/OptiVerse/blob/main/README.md">⭐English ⭐</a> |
+    <a href="https://github.com/Solrikk/OptiVerse/blob/main/docs/readme/README_RU.md">Russian</a> |
+    <a href="https://github.com/Solrikk/OptiVerse/blob/main/docs/readme/README_GE.md">German</a> |
+    <a href="https://github.com/Solrikk/OptiVerse/blob/main/docs/readme//README_JP.md">Japanese</a> |
+    <a href="https://github.com/Solrikk/OptiVerse/blob/main/docs/readme/README_KR.md">Korean</a> |
+    <a href="https://github.com/Solrikk/OptiVerse/blob/main/docs/readme/README_CN.md">Chinese</a>
+  </h3>
+</div>
+
+-----------------
+
 # OptiVerse
 
 OptiVerse — это мощное приложение для обработки видео, объединяющее передовые технологии компьютерного зрения и машинного обучения. С помощью OptiVerse вы можете автоматически извлекать и транскрибировать аудио, обнаруживать лица и позы, распознавать объекты, а также добавлять субтитры и аннотации к видеофайлам.
