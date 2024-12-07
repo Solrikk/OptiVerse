@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/Solrikk/OptiVerse/blob/main/README.md">⭐English ⭐</a> |
+    <a href="https://github.com/Solrikk/OptiVerse/blob/main/README.md">⭐English⭐</a> |
     <a href="https://github.com/Solrikk/OptiVerse/blob/main/docs/readme/README_RU.md">Russian</a> |
     <a href="https://github.com/Solrikk/OptiVerse/blob/main/docs/readme/README_GE.md">German</a> |
     <a href="https://github.com/Solrikk/OptiVerse/blob/main/docs/readme//README_JP.md">Japanese</a> |
@@ -270,15 +270,6 @@ Serving as the entry point, the `main` function manages the overall execution of
 4. **Pose Initialization:** Initialize MediaPipe's Pose solution.
 5. **Video Processing:** Invoke `process_video` with the video path, transcription segments, and pose object.
 6. **Logging:** Record the status and any errors encountered during processing.
-
-**Error Handling:**
-
-```python
-try:
-    perform processing steps
-except Exception as e:
-    log the error message
-```
 
 
 
