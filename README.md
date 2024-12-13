@@ -12,7 +12,6 @@
     <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_KR.md">한국어</a> |
     <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_TR.md">Türkçe</a> |
     <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_CN.md">中文</a> |
-    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_BIN.md">01000010</a> |
   </h3>
 </div>
 
