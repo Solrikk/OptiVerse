@@ -17,9 +17,6 @@
 
 -----------------
 
-
-
-
 # dectralv1
 
 dectralv1 is a powerful video processing application that combines advanced computer vision and machine learning technologies. With dectralv1, you can automatically extract and transcribe audio, detect faces and poses, recognize objects, as well as add subtitles and annotations to video files.
