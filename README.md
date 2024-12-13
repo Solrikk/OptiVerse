@@ -1,4 +1,4 @@
-![Logo](https://github.com/Solrikk/dectralv1/blob/main/assets/OpenCV%20-%20result/bee.jpg)
+![Logo](https://github.com/Solrikk/dectralv1/blob/main/assets/photo/jj-ying-0MT.jpg)
 
 <div align="center">
   <h3>
