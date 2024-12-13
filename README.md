@@ -1,21 +1,21 @@
-![Logo](https://github.com/Solrikk/OptiVerse/blob/main/assets/OpenCV%20-%20result/bee.jpg)
+![Logo](https://github.com/Solrikk/dectralv1/blob/main/assets/OpenCV%20-%20result/bee.jpg)
 
 <div align="center">
   <h3>
-    <a href="https://github.com/Solrikk/OptiVerse/blob/main/README.md">⭐English⭐</a> |
-    <a href="https://github.com/Solrikk/OptiVerse/blob/main/docs/readme/README_RU.md">Russian</a> |
-    <a href="https://github.com/Solrikk/OptiVerse/blob/main/docs/readme/README_GE.md">German</a> |
-    <a href="https://github.com/Solrikk/OptiVerse/blob/main/docs/readme//README_JP.md">Japanese</a> |
-    <a href="https://github.com/Solrikk/OptiVerse/blob/main/docs/readme/README_KR.md">Korean</a> |
-    <a href="https://github.com/Solrikk/OptiVerse/blob/main/docs/readme/README_CN.md">Chinese</a>
+    <a href="https://github.com/Solrikk/dectralv1/blob/main/README.md">⭐English⭐</a> |
+    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_RU.md">Russian</a> |
+    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_GE.md">German</a> |
+    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme//README_JP.md">Japanese</a> |
+    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_KR.md">Korean</a> |
+    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_CN.md">Chinese</a>
   </h3>
 </div>
 
 -----------------
 
-# OptiVerse
+# dectralv1
 
-OptiVerse is a powerful video processing application that combines advanced computer vision and machine learning technologies. With OptiVerse, you can automatically extract and transcribe audio, detect faces and poses, recognize objects, as well as add subtitles and annotations to video files.
+dectralv1 is a powerful video processing application that combines advanced computer vision and machine learning technologies. With dectralv1, you can automatically extract and transcribe audio, detect faces and poses, recognize objects, as well as add subtitles and annotations to video files.
 
 ## Key Features
 
@@ -32,8 +32,8 @@ OptiVerse is a powerful video processing application that combines advanced comp
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/OptiVerse.git
-    cd OptiVerse
+    git clone https://github.com/your-username/dectralv1.git
+    cd dectralv1
     ```
 
 2. **Create and Activate a Virtual Environment (Optional):**
@@ -67,7 +67,7 @@ OptiVerse is a powerful video processing application that combines advanced comp
 
 2. **Run the Script:**
     ```bash
-    python optiverse.py
+    python dectralv1.py
     ```
 
 3. **Results:**
@@ -78,7 +78,7 @@ OptiVerse is a powerful video processing application that combines advanced comp
 
 # 🔧 Detailed Feature Description
 
-OptiVerse leverages a suite of advanced technologies to deliver robust video processing capabilities. Below is a technical overview of each feature, highlighting key components, methodologies, and relevant formulas employed.
+dectralv1 leverages a suite of advanced technologies to deliver robust video processing capabilities. Below is a technical overview of each feature, highlighting key components, methodologies, and relevant formulas employed.
 
 ## 1. **Audio Extraction (`extract_audio`)**
 
@@ -261,7 +261,7 @@ The `process_video` function orchestrates the comprehensive video processing wor
 
 ## 12. **Main Function (`main`)**
 
-Serving as the entry point, the `main` function manages the overall execution of the OptiVerse application. It initiates audio extraction and transcription, handles subtitle generation, and triggers the video processing pipeline. Additionally, it incorporates logging mechanisms to track the processing stages and handle any exceptions that may arise, ensuring a smooth and reliable operation.
+Serving as the entry point, the `main` function manages the overall execution of the dectralv1 application. It initiates audio extraction and transcription, handles subtitle generation, and triggers the video processing pipeline. Additionally, it incorporates logging mechanisms to track the processing stages and handle any exceptions that may arise, ensuring a smooth and reliable operation.
 
 **Execution Flow:**
 1. **Audio Extraction:** Call `extract_audio` to retrieve the audio track.
