@@ -1,4 +1,4 @@
-![Logo](https://github.com/Solrikk/dectralv1/blob/main/assets/photo/jj-ying-0MT.jpg)
+![Logo](https://github.com/Solrikk/dectralv1/blob/main/assets/photo/photo_2024-12-13_07-09-19.jpg)
 
 <div align="center">
   <h3>
