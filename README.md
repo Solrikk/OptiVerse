@@ -3,15 +3,23 @@
 <div align="center">
   <h3>
     <a href="https://github.com/Solrikk/dectralv1/blob/main/README.md">⭐English⭐</a> |
+    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_JP.md">日本語</a> |
     <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_RU.md">Русский</a> |
-    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_GE.md">German</a> |
-    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme//README_JP.md">Japanese</a> |
-    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_KR.md">Korean</a> |
-    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_CN.md">Chinese</a>
+    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_FR.md">Français</a> |
+    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_GE.md">Deutsch</a> |
+    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_AR.md">العربية</a> |
+    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_ES.md">Español</a> |
+    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_KR.md">한국어</a> |
+    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_TR.md">Türkçe</a> |
+    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_CN.md">中文</a> |
+    <a href="https://github.com/Solrikk/dectralv1/blob/main/docs/readme/README_BIN.md">01000010</a> |
   </h3>
 </div>
 
 -----------------
+
+
+
 
 # dectralv1
 
